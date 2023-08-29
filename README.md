@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @NourBrahim
-- 👀 I’m interested in web and mobile devoloping 
-- 🌱 I’m currently learning C, html and css
+Proficient in problem solving, Web development, UI/UX design and project management.
+Skilled in strategic planning and critical thinking, honed through a passion for chess, making an effective project manager. 
+Always eager to learn and adapt to new technologies and methodologies to ensure successful outcomes.
 
-<!---
-NourBrahim/NourBrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+main niches : 
+- problem solving
+- front end developement(html , css , js , ts , angular)
+- ui/ux design
+- java
+- project management
+- database (sql)
