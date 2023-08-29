@@ -6,6 +6,6 @@ main niches :
 - problem solving
 - front end developement(html , css , js , ts , angular)
 - ui/ux design
-- java
+- java + sql
 - project management
-- database (sql)
+
