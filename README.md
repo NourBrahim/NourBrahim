@@ -4,8 +4,8 @@ Always eager to learn and adapt to new technologies and methodologies to ensure 
 
 main niches : 
 - problem solving
-- front end developement(html , css , js , ts , angular)
+- full stack development (js ,ts , Angular , Node.js , Express.js )
 - ui/ux design
-- java + sql
+- java(JEE , Springboot) + sql
 - project management
 
